@@ -43,6 +43,10 @@ color: white;
 .Masculino2{
   text-align: center;
 }
+#bor{
+  box-sizing: border-box;
+  border: 2px dashed #0484c4;
+}
 #informação2{
     font-family: 'Righteous', cursive;
     text-align: justify;
@@ -59,6 +63,10 @@ font-family: 'Sarala', sans-serif;
   padding-left: 20px;
 color: #0484c4;
 font-family: 'Sarala', sans-serif;
+}
+#bo{
+  box-sizing: border-box;
+  border: 2px dashed #0484c4;
 }
 .ma{
   float: right;

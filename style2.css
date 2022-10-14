@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+
+body {
+
+}
+
+#começo{
+  text-align: center;
+  padding-left: 20px;
+color: #0484c4;
+font-family: 'Sarala', sans-serif;
+}
+
+#missaoo{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#missaoo2{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#im{
+	padding-left: 0px;
+	float: center;
+  width: 40%;
+  box-sizing: border-box;
+  border: 4px dashed #0484c4;
+}
+}
+#hi{
+  padding-left: 20px;
+color: #0484c4;
+font-family: 'Sarala', sans-serif;
+}
+#missaoo3{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#missaoo4{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#missaoo5{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#f{
+  padding-left: 20px;
+color: #0484c4;
+font-family: 'Sarala', sans-serif;
+}
+#missaoo6{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#missaoo7{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#cam{
+	padding-left: 80px;
+	float: center;
+  width: 40%;
+
+}
+#m{
+  padding-left: 20px;
+color: #0484c4;
+font-family: 'Sarala', sans-serif;
+}
+#missaoo8{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#missaoo9{
+	font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: left;
+}
+#cam2{
+	padding-left: 80px;
+	float: center;
+  width: 40%;
+}
+.c2{
+}
+#c3{
+  padding-left: 30px;
+  float: left;
+}
+#c4{
+  padding-left: 30px;
+  float: left;
+}
+.final{
+  float: center;
+  background color: #04447c;
+}
