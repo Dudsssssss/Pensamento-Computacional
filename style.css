@@ -6,6 +6,11 @@ body {
 #outros{
   color: #white;
 font-family: 'Sarala', sans-serif;
+box: shadow 0;
+}
+
+#outros:hover{
+  background-color: black;
 }
 .titulo-principal{
   text-align: center;
