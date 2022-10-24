@@ -3,14 +3,8 @@
 body {
 
 }
-#outros{
-  color: #white;
-font-family: 'Sarala', sans-serif;
-box: shadow 0;
-}
-
-#outros:hover{
-  background-color: black;
+#outros :hover{
+color: white;
 }
 .titulo-principal{
   text-align: center;
@@ -25,6 +19,9 @@ font-family: 'Sarala', sans-serif;
 color: #0484c4;
 font-family: 'Sarala', sans-serif;
    }
+.titulo-centralizado :hover{
+color: black;
+}
 #missao {
     font-size: 30px;
     font-family: 'Righteous', cursive;
@@ -34,7 +31,9 @@ font-family: 'Sarala', sans-serif;
   text-align: right;
 font-family: 'Sarala', sans-serif;
 color: white;
-
+}
+#Masculino2 :hover{
+  color: black;
 }
 #Feminino {
   color: white;
@@ -68,6 +67,9 @@ font-family: 'Sarala', sans-serif;
   padding-left: 20px;
 color: #0484c4;
 font-family: 'Sarala', sans-serif;
+}
+#Masculino3 :hover{
+  color: black;
 }
 #bo{
   box-sizing: border-box;
