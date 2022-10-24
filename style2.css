@@ -3,7 +3,9 @@
 body {
 
 }
-
+#outros :hover{
+ color: white;
+}
 #começo{
   text-align: center;
   padding-left: 20px;
@@ -12,40 +14,55 @@ font-family: 'Sarala', sans-serif;
 }
 
 #missaoo{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #missaoo2{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #im{
-	padding-left: 0px;
-	float: center;
-  width: 40%;
+ float: right;
+  width: 30%;
   box-sizing: border-box;
   border: 4px dashed #0484c4;
 }
+
+
+#imu{
+ float: center;
+  width: 50%;
+  box-sizing: border-box;
+  border: 4px dashed #0484c4;
+}
+#ima{
+ float: center;
+  width: 50%;
+  box-sizing: border-box;
+  border: 4px dashed #0484c4;
 }
 #hi{
   padding-left: 20px;
 color: #0484c4;
 font-family: 'Sarala', sans-serif;
 }
+#hi :hover{
+  color: black;
+}
 #missaoo3{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #missaoo4{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #missaoo5{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
@@ -54,19 +71,22 @@ font-family: 'Sarala', sans-serif;
 color: #0484c4;
 font-family: 'Sarala', sans-serif;
 }
+#f :hover{
+color: black;
+}
 #missaoo6{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #missaoo7{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #cam{
-	padding-left: 80px;
-	float: center;
+padding-left: 80px;
+float: center;
   width: 40%;
 
 }
@@ -75,19 +95,22 @@ font-family: 'Sarala', sans-serif;
 color: #0484c4;
 font-family: 'Sarala', sans-serif;
 }
+#m :hover{
+color: black;
+}
 #missaoo8{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #missaoo9{
-	font-size: 30px;
+font-size: 30px;
     font-family: 'Sarala', sans-serif;
     text-align: left;
 }
 #cam2{
-	padding-left: 80px;
-	float: center;
+padding-left: 80px;
+float: center;
   width: 40%;
 }
 .c2{
